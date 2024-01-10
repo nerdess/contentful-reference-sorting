@@ -7,7 +7,9 @@ const Field = () => {
 	const sdk = useSDK<FieldAppSDK>();
 	useAutoResizer();
 
-	return <SortingWrapper sdk={sdk} />;
+	return (
+    <SortingWrapper sdk={sdk} />
+  );
 };
 
 export default Field;

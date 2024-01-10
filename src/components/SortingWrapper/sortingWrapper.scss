@@ -1,0 +1,9 @@
+body {
+    overflow-x: hidden;
+}
+
+.sorting-wrapper-trigger {
+    & button {
+        max-width: none;
+    }
+}
