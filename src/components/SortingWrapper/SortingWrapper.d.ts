@@ -6,7 +6,7 @@ export type EntrySaved = {
 	};
 }
 
-export type SortBy = 'title' | 'date';
+export type SortBy = 'title' | 'date' | 'field';
 
 export type EntryWithError = {
     sys: {
