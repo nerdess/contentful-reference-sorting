@@ -2,7 +2,7 @@ This project was bootstrapped with [Create Contentful App](https://github.com/co
 
 ## What it does
 
-Allows Entries inside "References, many" to be sorted by editor.
+Allows Contentful entries inside "References, many" to be sorted by editor.
 
 Possible sorting options:
 
