@@ -1,19 +1,20 @@
 This project was bootstrapped with [Create Contentful App](https://github.com/contentful/create-contentful-app).
 
-## How to use
+## What it does
 
-Execute create-contentful-app with npm, npx or yarn to bootstrap the example:
+Allows Entries inside "References, many" to be sorted by editor.
 
-```bash
-# npx
-npx create-contentful-app --typescript
+Possible sorting options:
 
-# npm
-npm init contentful-app -- --typescript
+- Alphabetically
+- Chronologically
+- Custom field
 
-# Yarn
-yarn create contentful-app --typescript
-```
+![sorting options](https://github.com/user-attachments/assets/f7a682a1-e5c1-44d3-8ff6-2a2d17f9d1cd)
+
+Editor UI
+
+![Sorting UI](https://github.com/user-attachments/assets/ee2d0afc-f5cf-453b-a1b8-3c3fafc1f216)
 
 ## Available Scripts
 
